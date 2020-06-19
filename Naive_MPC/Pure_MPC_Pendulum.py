@@ -79,4 +79,4 @@ if __name__ == '__main__':
     plt.xlabel('episode')
     plt.ylabel('episode reward')
     plt.title('MPC_Pendulum_v0')
-    # plt.savefig('Pure_MPC/MPC_Pendulum_v0.png')
+    # plt.savefig('Naive_MPC/MPC_Pendulum_v0.png')

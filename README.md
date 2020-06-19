@@ -1,6 +1,6 @@
 # Model Predictive Control for Pendulum-v0
 
-Pure MPC uses the real model for simulation.    
+Naive MPC uses the real model for simulation.    
 
 Learning MPC uses a learned system dynamics with neural network for simulation.
 
@@ -12,8 +12,8 @@ pip install mxnet  (or mxnet-cu90 which corresponds your cuda version)
 ```
 
 Examples:       
-![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Pure_MPC/pure_mpc.gif)
+![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Naive_MPC/naive_mpc.gif)
 
 
-Pure_MPC with different rollouts and horizon:   
-![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Pure_MPC/MPC_Pendulum_v0.png) 
+Naive MPC with different rollouts and horizon:   
+![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Naive_MPC/MPC_Pendulum_v0.png) 
