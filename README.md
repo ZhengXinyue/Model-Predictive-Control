@@ -11,8 +11,8 @@ pip install numpy matplotlib gym
 pip install mxnet  (or mxnet-cu90 which corresponds your cuda version)
 ```
 
-Examples:
-  
+Examples:       
+![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Pure_MPC/pure_mpc.gif)
 
 
 Pure_MPC with different rollouts and horizon:   
