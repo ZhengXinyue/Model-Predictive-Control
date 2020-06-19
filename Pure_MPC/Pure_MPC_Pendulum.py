@@ -58,7 +58,7 @@ def start():
 if __name__ == '__main__':
     seed = 777777
     max_episodes = 50
-    max_episode_steps = 400
+    max_episode_steps = 200
     env = gym.make('Pendulum-v0').unwrapped
     sim_env = PendulumEnv()  # additional model
     sim_env.reset()
