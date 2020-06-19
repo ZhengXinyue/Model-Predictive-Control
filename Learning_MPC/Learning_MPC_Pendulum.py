@@ -187,8 +187,8 @@ if __name__ == '__main__':
 
     # due to computation cost. I only do some simple simulation, but that's good enough.
     # the principle is that: more rollouts and longer horizon will make better performance.
-    rollout_list = [50]
-    horizon_list = [20]
+    rollout_list = [20]
+    horizon_list = [10]
     max_episodes = 20
     max_episode_steps = 400
     start()
