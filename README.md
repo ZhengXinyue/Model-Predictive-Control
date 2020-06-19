@@ -15,4 +15,4 @@ Performance:
 
 
 Pure_MPC with different rollouts and horizon:   
-![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Pure_MPC/MPC_Pendulum_V0.png)  
+![image](https://github.com/ZhengXinyue/Model-Predictive-Control/blob/master/Pure_MPC/MPC_Pendulum_v0.png) 
